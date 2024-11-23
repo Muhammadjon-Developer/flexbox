@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.navbar {
+  display: flex;
+  flex-direction: ;
+  height: 100vh;
+  width: 20%;
+  background-color: rgb(192, 243, 9);
+}
+
+.header {
+  display: flex;
+  flex-direction: ;
+  height: 20vh;
+  /* width:80% ; */
+  background-color: rgb(250, 246, 10);
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.artical {
+  display: flex;
+  height: 65vh;
+  flex-direction: row;
+  background-color: pink;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  height: 100%;
+}
+
+.foot {
+  /* width: 90%; */
+  height: 15vh;
+  background-color: rgb(241, 79, 155);
+}
